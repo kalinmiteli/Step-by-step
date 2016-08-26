@@ -9,9 +9,9 @@ internet sitesine ulaşabiliriz.
 ---
 ##b) Dosyaya ulaşmak
 > Önümüze gelen seçeneklerden sırasıyla
-current-live/
-amd64/
-iso-hybrid/
+*current-live/*
+*amd64/*
+*iso-hybrid/*
 Dizinlerinin içine girerek iso dosyalarına ulaşabiliriz.
 
 ---
