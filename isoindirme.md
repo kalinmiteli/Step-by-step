@@ -1,13 +1,13 @@
 #1) Debian iso dosyasının indirilmesi
 
 ---
-##a) Siteye ulaşım
+##a) Siteye ulaşma
 > Kullandığımız arama motoruna "cd image debian" yazarak veya tarayıcımızın 
 adres çubuğuna "cdimage.debian.org/debian-cd" yazarak isoyu indireceğimiz 
 internet sitesine ulaşabiliriz.
 
 ---
-##b) Dosyaya ulaşmak
+##b) Dosyaya ulaşma
 > Önümüze gelen seçeneklerden sırasıyla
 *current-live/*
 *amd64/*
@@ -15,7 +15,8 @@ internet sitesine ulaşabiliriz.
 Dizinlerinin içine girerek iso dosyalarına ulaşabiliriz.
 
 ---
-##c) Seçim
+##c) Dosya seçimi
 
->Buradaki iso dosyalarından istediğimizi üzerine tıklayarak indirebiliriz.
+>Buradaki .iso uzantılı iso dosyalarından istediğimizi üzerine tıklayarak 
+indirebiliriz.
 
