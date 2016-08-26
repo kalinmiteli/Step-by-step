@@ -3,8 +3,8 @@
 ---
 ##a) Siteye ulaşma
 > Kullandığımız arama motoruna "cd image debian" yazarak veya tarayıcımızın 
-adres çubuğuna "cdimage.debian.org/debian-cd" yazarak isoyu indireceğimiz 
-internet sitesine ulaşabiliriz.
+adres çubuğuna "[cdimage.debian.org/debian-cd](cdimage.debian.org/debian-cd)" 
+yazarak isoyu indireceğimiz internet sitesine ulaşabiliriz.
 
 ---
 ##b) Dosyaya ulaşma
