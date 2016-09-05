@@ -143,3 +143,103 @@ etmek istediğiniz (bizim durumumuzda USB) bileşeni en üste çıkartın. Yapt�
 
 ![çık](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/6.jpeg)
 
+# 5 - Diske Debian kurulumu
+
+Bilgisayarımızı USB takılı şekilde açtığımızda karşımıza Debian kurulumu gelecek. Burada karşınıza pek çok adım gelse de gözünüzü korkutmasın, sadece birkaç adım sizi uğraştıracaktır.
+
+## A - Dil, Konum seçimi ve İsim, Parola Oluşturma
+
+Önünüze gelen ekrandan 'Graphical Install' seçeneğini ok tuşları ve 'Enter' tuşu yardımı ile seçin. Ardından dil ve konum seçimi yapın. Klavye dili seçin.  Yüklemenin bitmesini bekleyip 'makine adı' belirleyin. Alan adı kısmını boş
+bırakabilirsiniz. 'Root parolası' belirleyin. (Unutmayacağınıza emin olun zira çok lazım olacak.). Kullanıcı tam adı kısmına kendi adınızı yazın. Ardından kendinize bir kullanıcı adı ve kullanıcı parolası belirleyin. Yükleme bittikten
+sonra karşınızda 'Disk Bölümlendirme' kısmını göreceksiniz.
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/1.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/2.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/3.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/4.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/5.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/6.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/7.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/8.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/9.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/10.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/11.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/12.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/13.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/14.PNG)
+
+
+## B - Disk Bölümlendirme
+
+Karşınıza gelen ekrandan bölümleme yöntemi olarak 'elle' seçeneğini seçin. Önünüze gelecek olan ekranda Sağında 'BOŞ ALAN' yazan birimi seçin ve devam edin. 'Boş alanı otomatik olarak bölümle' seçeneini seçip devam edin. 
+'Tüm dosyalar tek bölümde' seçeneğini seçin. Ardından 'Bölümlendirmeyi bitir ve değişiklikleri diske kaydet' seçeneğini seçin ve devam edin. Önünüze yapılan değişiklikler gelecek. Eğer her şey doğru gözüküyorsa 'Evet' seçeneğini seçin
+ ve devam edin. Yüklemenin bitmesini bekleyin. 
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/15.jpeg)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/16.jpeg)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/17.jpeg)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/18.jpeg)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/19.jpeg)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/20.jpeg)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/21.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/22.PNG)
+
+## C - Paket Yöneticisi ve GRUB ekranı 
+
+Ağ yansısı kullanılsın mı sorusuna evet diyin ve devam edin. Ülke seçin. Arşiv yansısını seçin (ftp.tr.debian.org veya ftp.linux.org.tr tavsiye edilir.). HTTP vekil bilgileri kısmını boş bırakın ve devam edin. Yüklenme bittikten sonra 
+karşınıza GRUB ekranı kurulumu gelecek. ' GRUB önyükleyici ana önyükleme kaydına (MBR) kurulsun mu? ' sorusuna evet diyin ve devam edin. 
+Önyükleyicinin kurulacağı aygıt olarak bilgisayarınızın sabit diskini seçin. Yükleme bittikten sonra karşınıza gelen 'Kurulumu bitir' kısmını okuyup devam edin. Son yükleme bitince bilgisayarınızı kapatın,
+ USB'yi çıkartın ve tekrar çalıştırın. GRUB ekranından yeni işletim sisteminizi seçerek Debian'ın tadını çıkartabilirsiniz.
+
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/23.PNG)
+
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/24.PNG)
+
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/25.PNG)
+
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/26.PNG)
+
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/27.PNG)
+
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/28.PNG)
+
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/29.PNG)
+
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/30.PNG)
+
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/31.PNG)
+
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/32.PNG)
+
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/33.PNG)
