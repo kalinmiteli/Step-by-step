@@ -1,14 +1,3 @@
-#Step-by-step
-
-#Yapılacaklar
-##1. Debian iso dosyasının indirilmesi
-##2. Windows üzerinde Debian iso dosyasını usb belleğe yazdırma
-##2.1. Gerekli aracın kurulumu (Pendrive linux)
-##3. Windows üzerinde disk bölümlendirme
-##4. Usb'den boot etme işlemi için BIOS/UEFI ayarları
-##5. Diske Debian kurulumu
-
-
 # 1 - Debian iso dosyasının indirilmesi
 
 
@@ -185,7 +174,7 @@ sonra karşınızda 'Disk Bölümlendirme' kısmını göreceksiniz.
 
 ## B - Disk Bölümlendirme
 
-Karşınıza gelen ekrandan bölümleme yöntemi olarak 'elle' seçeneğini seçin. Önünüze gelecek olan ekranda Sağında 'BOŞ ALAN' yazan birimi seçin ve devam edin. 'Boş alanı otomatik olarak bölümle' seçeneini seçip devam edin. 
+Karşınıza gelen ekrandan bölümleme yöntemi olarak 'elle' seçeneğini seçin. Önünüze gelecek olan ekranda Sağında 'BOŞ ALAN' yazan birimi seçin ve devam edin. 'Boş alanı otomatik olarak bölümle' seçeneğini seçip devam edin. 
 'Tüm dosyalar tek bölümde' seçeneğini seçin. Ardından 'Bölümlendirmeyi bitir ve değişiklikleri diske kaydet' seçeneğini seçin ve devam edin. Önünüze yapılan değişiklikler gelecek. Eğer her şey doğru gözüküyorsa 'Evet' seçeneğini seçin
  ve devam edin. Yüklemenin bitmesini bekleyin. 
 
@@ -244,3 +233,8 @@ USB'yi çıkartın ve tekrar çalıştırın. GRUB ekranından yeni işletim sis
 
 
 ![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/33.PNG)
+
+
+#Lisans
+
+Bu belge "GNU Free Documentation License" ile lisanslanmıştır. Lisansı [lisans](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/LICENCES.txt) adresinden inceleyebilirsiniz.
