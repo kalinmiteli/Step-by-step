@@ -61,6 +61,8 @@ Bu işlemler sonucunda artık boot edilebilir bir USB belleğe sahip olursunuz.
 ## A - Disk Yönetimine giriş
 
 'Bilgisayarım'a sağ tıklayıp 'yönet'e bastıktan sonra sol taraftaki barda çıkacak olan 'disk yönetimi' seçeneğine basarak disk bölümlendirmesi yapacağınız ekrana ulaşabilirsiniz.
+
+
 ![sağtık](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level3/1.png)
 ![giriş](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level3/2.png)
 
