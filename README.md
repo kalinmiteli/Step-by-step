@@ -3,12 +3,9 @@
 
 ## A - Siteye ulaşma
 
-Kullandığınız arama motoruna "cd image debian" yazarak veya tarayıcınızın 
-adres çubuğuna "[cdimage.debian.org/debian-cd](http://cdimage.debian.org/debian-cd/)" 
+Tarayıcınızın adres çubuğuna "[cdimage.debian.org/debian-cd](http://cdimage.debian.org/debian-cd/)" 
 yazarak isoyu indireceğiniz internet sitesine ulaşabilirsiniz.
 
-![at](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level1/1.png)
-![kedi](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level1/2.png)
 
 ## B - Dosyaya ulaşma
 
@@ -22,9 +19,7 @@ yazarak isoyu indireceğiniz internet sitesine ulaşabilirsiniz.
 
 Dizinlerinin içine girerek iso dosyalarına ulaşabilirsiniz.
 
-![dizin1](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level1/3.png)
-![dizin2](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level1/4.png)
-![dizin3](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level1/5.png)
+
 
 ## C - Dosya seçimi
 
@@ -38,33 +33,21 @@ indirebilirsiniz.
 
 ## A - Pendrivelinux'u indirmek için internet sitesine ulaşma 
 
-Kullandığınız arama motoruna "pendrivelinux download" yazarak veya internet
-tarayıcınızın adres çubuğuna
- "[http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)" 
+İnternet tarayıcınızın adres çubuğuna "[http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/)" 
 yazarak siteye ulaşabilirsiniz.
-![arama](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.png)
+
 
 ## B - İndirme ve kurulum 
 
 Sayfanın altında bulunan indirme butonuna bastıktan sonra '.exe' uzantılı dosyanız inmeye başlayacaktır. İndirme işlemi bittikten sonra dosyayı açın. 
-![indirbuton](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/3.png)
-![aç](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/5.png)
+
 Karşınıza çıkan lisans sözleşmesini okuduktan sonra 
 kabul edin. Birinci adımda USB belleğe koymak istediğiniz Linux dağıtımını seçin. İkinci adımda indirmiş olduğunuz iso dosyasını ekleyin. Üçüncü adında usb belleğinizin harfini seçin ve "Create" seçeneğine 
 tıklayın. 
-![agreement](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/6.png)
-![adım1](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/7.png)
-![adım2](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/mastehttps://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/11.pngr/level2/8.png)
-![adım2.1](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/9.png)
-![adım3](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/10.png)
-![create](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/11.png)
+
 
 Karşınıza yapılacak işlemle alakalı bir uyarı çıkacak. Bu uyarı size yapılacak işlemleri ve işlemlerin uygulanacağı USB belleği tekrar gösterir. Sizden doğrulamanız istenir. "Evet" seçeneğini
 seçtiğiniz taktirde işlem başlar. İşlem bittikten sonra "Close" seçeneğini seçerek pencereyi kapatabilirsiniz. 
-![uyarı](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/12.png)
-![bekleme1](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/13.png)
-![bekleme2](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/15.png)
-![kapat](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/16.png)
 
 ## C - Sonuç
 
@@ -79,12 +62,12 @@ Bu işlemler sonucunda artık boot edilebilir bir USB belleğe sahip olursunuz.
 
 'Bilgisayarım'a sağ tıklayıp 'yönet'e bastıktan sonra sol taraftaki barda çıkacak olan 'disk yönetimi' seçeneğine basarak disk bölümlendirmesi yapacağınız ekrana ulaşabilirsiniz.
 
-![sağtık](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level3/1.png)
+
 ![giriş](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level3/2.png)
 
 ## B - Disk bölümlendirme
 
-Öncelikle bilgisayarınızdaki disk bölümlerinden birini küçültmeniz ve kendinize bir disk bölümü açmanız gerekiyor. Küçültmek istediğiniz bölümü seçin (Bu genellikle 'C:' olacaktır.). Seçtikten sonra birimin üstüne gelip sağ tıklayın ve 
+Öncelikle bilgisayarınızdaki disk bölümlerinden birini küçültmeniz ve kendinize bir disk bölümü açmanız gerekiyor. Küçültmek istediğiniz bölümü seçin (Hangi diskinizde boş yer var ise onu seçmelisiniz.). Seçtikten sonra birimin üstüne gelip sağ tıklayın ve 
 'birimi küçült' seçeneğine tıklayın. Birim sorgulama bittikten sonra küçültmek istediğiniz alan boyutunu MB cinsinden girerek küçült seçeneğine tıklayın.
 
 ![birimseç](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level3/4.png)
@@ -96,25 +79,6 @@ Bu işlemler sonucunda artık boot edilebilir bir USB belleğe sahip olursunuz.
 
 
 # 4 - Usb'den boot etme işlemi için BIOS/UEFI ayarları
-
-Öncelikle üzülerek belirtmek zorundayım ki BIOS/UEFI ayarları bilgisayarın marka ve modeline göre hem bu ayarlara ulaşım, hem de ayarların yapılışı açısında farklılık göstermektedir. Bu bölümde size yol göstermesi için göstereceğimiz
-ekran görüntüleri ile sizin BIOS/UEFI ekranlarınız ve  ayarlarınız uyuşmayabilir. Bundan dolayı bu ayarları yapmadan önce internetten bilgisayarınızın marka ve modelini belirterek araştırma yapmanız iyi olacaktır.
-
-Bilgisayarınızı kapatıp USB'yi takarak tekrar başlatın. Bilgisayarınız açılırken F1-F2-F10-F11-F12 veya DEL tuşuna arka arkaya basın. Karşınıza çıkacak ekranda size menüler arasında geçiş yapmanızı sağlayacak (genellikle sağ ve sol ok
-tuşları), seçim yapmanızı sağlayacak (genellikle 'Enter' tuşu) ve değerleri değiştirmenizi sağlayacak (genellikle -/+ tuşları) tuşları gösteren bir kısım göreceksiniz. Bu tuşlar sayesinde Boot ayarlarına ulaşıp bilgisayarınızı boot 
-etmek istediğiniz (bizim durumumuzda USB) bileşeni en üste çıkartın. Yaptığınız değişiklikleri kaydedip çıkın.
-
-![bios](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/1.jpeg)
-
-![system](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/2.jpeg)
-
-![order](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/3.jpeg)
-
-![seçim](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/4.jpeg)
-
-![üst](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/5.jpeg)
-
-![çık](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/6.jpeg)
 
 # 5 - Diske Debian kurulumu
 
@@ -146,9 +110,7 @@ sonra karşınızda 'Disk Bölümlendirme' kısmını göreceksiniz.
 
 ![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/10.PNG)
 
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/11.PNG)
 
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/12.PNG)
 
 ![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/13.PNG)
 
@@ -161,17 +123,6 @@ Karşınıza gelen ekrandan bölümleme yöntemi olarak 'elle' seçeneğini seç
 'Tüm dosyalar tek bölümde' seçeneğini seçin. Ardından 'Bölümlendirmeyi bitir ve değişiklikleri diske kaydet' seçeneğini seçin ve devam edin. Önünüze yapılan değişiklikler gelecek. Eğer her şey doğru gözüküyorsa 'Evet' seçeneğini seçin
  ve devam edin. Yüklemenin bitmesini bekleyin. 
 
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/15.jpeg)
-
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/16.jpeg)
-
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/17.jpeg)
-
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/18.jpeg)
-
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/19.jpeg)
-
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/20.jpeg)
 
 ![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/21.PNG)
 
