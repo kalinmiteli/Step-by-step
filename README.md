@@ -82,7 +82,18 @@ Bu işlemler sonucunda artık boot edilebilir bir USB belleğe sahip olursunuz.
 # 4 - Usb'den boot etme işlemi için BIOS/UEFI ayarları
 
 ![birim](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/1.jpeg)
-![seçim]https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/2.jpeg)
+![seçim](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/2.jpeg)
+![usb](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/3.jpeg)
+![kaydetme](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/4.jpeg)
+![güvenlik](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/5.jpeg)
+![izin](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/6.jpeg)
+![geçiş](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/7.jpeg)
+![değiştirme](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/8.jpeg)
+![öncelikverme](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/9.jpeg)
+![tamamatık](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/10.jpeg)
+![kaydetçık](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level4/11.jpeg)
+
+
 # 5 - Diske Debian kurulumu
 
 Bilgisayarınızı USB takılı şekilde açtığınızda karşınıza Debian kurulumu gelecek. Burada karşınıza pek çok adım gelse de gözünüzü korkutmasın, sadece birkaç adım sizi uğraştıracaktır.
