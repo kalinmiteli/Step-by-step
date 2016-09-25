@@ -3,30 +3,19 @@
 
 ## A - Siteye ulaşma
 
-Tarayıcınızın adres çubuğuna "[cdimage.debian.org/debian-cd](http://cdimage.debian.org/debian-cd/)" 
+Tarayıcınızın adres çubuğuna "[http://cdimage.debian.org/debian-cd/8.6.0/amd64/iso-dvd/](http://cdimage.debian.org/debian-cd/8.6.0/amd64/iso-dvd/)" 
 yazarak isoyu indireceğiniz internet sitesine ulaşabilirsiniz.
 
 
-## B - Dosyaya ulaşma
+## B - Dosya seçimi
 
-Önünüze gelen dizinlerden sırasıyla
-
-*current-live/*
-
-*amd64/*
-
-*iso-hybrid/*
-
-Dizinlerinin içine girerek iso dosyalarına ulaşabilirsiniz.
-
-
-
-## C - Dosya seçimi
-
-Buradaki '.iso' uzantılı iso dosyalarından istediğinizi üzerine tıklayarak 
+Buradaki '.iso' uzantılı iso dosyalarından istediğinizi, üzerine tıklayarak 
 indirebilirsiniz.
 
-![liste](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level1/6.png)
+![liste](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level1/1.png)
+![kaydetme](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level1/2.png)
+![yüklenme](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level1/3.png)
+
 
 # 2 - Windows üzerinde Debian iso dosyasının USB belleğe yazdırılması ve gerekli aracın kurulumu (Pendrivelinux)
 
