@@ -3,7 +3,7 @@
 
 ## A - Siteye ulaşma
 
-Tarayıcınızın adres çubuğuna "[http://cdimage.debian.org/debian-cd/8.6.0/amd64/iso-dvd/](http://cdimage.debian.org/debian-cd/8.6.0/amd64/iso-dvd/)" 
+Tarayıcınızın adres çubuğuna " [http://cdimage.debian.org/debian-cd/8.6.0/amd64/iso-dvd/](http://cdimage.debian.org/debian-cd/8.6.0/amd64/iso-dvd/) " 
 yazarak isoyu indireceğiniz internet sitesine ulaşabilirsiniz.
 
 
@@ -30,13 +30,27 @@ yazarak siteye ulaşabilirsiniz.
 
 Sayfanın altında bulunan indirme butonuna bastıktan sonra '.exe' uzantılı dosyanız inmeye başlayacaktır. İndirme işlemi bittikten sonra dosyayı açın. 
 
+![tıklama](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.1.png)
+![kaydet](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.2.png)
+![aç](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.3.png)
+
 Karşınıza çıkan lisans sözleşmesini okuduktan sonra 
 kabul edin. Birinci adımda USB belleğe koymak istediğiniz Linux dağıtımını seçin. İkinci adımda indirmiş olduğunuz iso dosyasını ekleyin. Üçüncü adında usb belleğinizin harfini seçin ve "Create" seçeneğine 
-tıklayın. 
-
+tıklayın.
+ 
+![kabulet](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.4.png)
+![seç](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.5.png)
+![iso](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.6.png)
+![usb](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.7.png)
+![oluştur](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.8.png)
 
 Karşınıza yapılacak işlemle alakalı bir uyarı çıkacak. Bu uyarı size yapılacak işlemleri ve işlemlerin uygulanacağı USB belleği tekrar gösterir. Sizden doğrulamanız istenir. "Evet" seçeneğini
 seçtiğiniz taktirde işlem başlar. İşlem bittikten sonra "Close" seçeneğini seçerek pencereyi kapatabilirsiniz. 
+
+![kapat](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.9.png)
+![süreç1](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.10.png)
+![süreç2](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.11.png)
+![süreç3](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.12.png)
 
 ## C - Sonuç
 
