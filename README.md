@@ -35,7 +35,7 @@ Sayfanın altında bulunan indirme butonuna bastıktan sonra '.exe' uzantılı d
 ![aç](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.3.png)
 
 Karşınıza çıkan lisans sözleşmesini okuduktan sonra 
-kabul edin. Birinci adımda USB belleğe koymak istediğiniz Linux dağıtımını seçin. İkinci adımda indirmiş olduğunuz iso dosyasını ekleyin. Üçüncü adında usb belleğinizin harfini seçin ve "Create" seçeneğine 
+kabul edin. Birinci adımda USB belleğe koymak istediğiniz Linux dağıtımını seçin. İkinci adımda indirmiş olduğunuz iso dosyasını ekleyin. Üçüncü adımda usb belleğinizin harfini seçin ve "Create" seçeneğine 
 tıklayın.
  
 ![kabulet](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.4.png)
@@ -51,11 +51,13 @@ seçtiğiniz taktirde işlem başlar. İşlem bittikten sonra "Close" seçeneği
 ![süreç1](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.10.png)
 ![süreç2](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.11.png)
 ![süreç3](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.12.png)
+![kapat](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.13.png)
 
 ## C - Sonuç
 
 Bu işlemler sonucunda artık boot edilebilir bir USB belleğe sahip olursunuz.
-![sonuç](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/17.png)
+
+![sonuç](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level2/2.14.png)
 
 
 
