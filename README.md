@@ -200,7 +200,21 @@ USB'yi çıkartın ve tekrar çalıştırın. GRUB ekranından yeni işletim sis
 
 ![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/26.PNG)
 
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/21.1.PNG)
 
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/22.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/22.1.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/23.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/24.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/25.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/26.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/27.PNG)
 
 
 
