@@ -129,7 +129,9 @@ sonra karşınızda 'Disk Bölümlendirme' kısmını göreceksiniz.
 
 ![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/10.PNG)
 
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/1.PNG)
 
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/2.PNG)
 
 ![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/13.PNG)
 
