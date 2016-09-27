@@ -169,19 +169,7 @@ USB'yi çıkartın ve tekrar çalıştırın. GRUB ekranından yeni işletim sis
 ![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/26.PNG)
 
 
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/27.PNG)
 
-
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/28.PNG)
-
-
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/31.PNG)
-
-
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/32.PNG)
-
-
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/33.PNG)
 
 
 #Lisans
