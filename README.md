@@ -145,10 +145,43 @@ Karşınıza gelen ekrandan bölümleme yöntemi olarak 'elle' seçeneğini seç
  ve devam edin. Yüklemenin bitmesini bekleyin. 
 
 
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/21.PNG)
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/3.PNG)
 
-![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/level5/22.PNG)
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/4.PNG)
 
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/5.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/6.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/7.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/8.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/9.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/10.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/11.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/12.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/13.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/14.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/15.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/16.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/17.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/18.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/19.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/20.PNG)
+
+![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/21.PNG)
 ## C - Paket Yöneticisi ve GRUB ekranı 
 
 Ağ yansısı kullanılsın mı sorusuna evet diyin ve devam edin. Ülke seçin. Arşiv yansısını seçin (ftp.tr.debian.org veya ftp.linux.org.tr tavsiye edilir.). HTTP vekil bilgileri kısmını eğer internete bağlanmak için vekil bilgilerine 
