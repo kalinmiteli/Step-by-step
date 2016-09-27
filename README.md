@@ -140,10 +140,9 @@ sonra karşınızda 'Disk Bölümlendirme' kısmını göreceksiniz.
 
 ## B - Disk Bölümlendirme
 
-Karşınıza gelen ekrandan bölümleme yöntemi olarak 'elle' seçeneğini seçin. Önünüze gelecek olan ekranda Sağında 'BOŞ ALAN' yazan birimi seçin ve devam edin. 'Boş alanı otomatik olarak bölümle' seçeneğini seçip devam edin. 
-'Tüm dosyalar tek bölümde' seçeneğini seçin. Ardından 'Bölümlendirmeyi bitir ve değişiklikleri diske kaydet' seçeneğini seçin ve devam edin. Önünüze yapılan değişiklikler gelecek. Eğer her şey doğru gözüküyorsa 'Evet' seçeneğini seçin
- ve devam edin. Yüklemenin bitmesini bekleyin. 
-
+Karşınıza gelen ekrandan bölümleme yöntemi olarak 'elle' seçeneğini seçin. Önünüze gelecek olan ekranda Sağında 'BOŞ ALAN' yazan birimi seçin ve devam edin. Mevcut olan bölümde bir bölümlendirme tablosu oluşturmak için 'evet' seçeneğini seçin. Oluşan boş olanı kullanarak yeni bir bölüm oluşturun ve bu yeni bölümün boyutunu en büyük boyuta yakın bir değer seçerek devam edin. Daha sonra, oluşacak olan bölümün türünü 'Birincil', yerini ise 'Başlangıç' olarak belirleyin ve ilk bölümünüzü 
+oluşturmuş olun. Kalan küçük boyutlu boş alanı, aynı şekilde yeni bir bölüm oluşturmak için seçin ve türünü (tercihen) 'Mantıksal' olarak belirleyin. Ne için kullanılacağını belirleyin ve devam edin. Son olarak, bölümlendirmeyi bitirin ve bu değişiklikleri diske kaydedin.
+ 
 
 ![](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/d%C3%BCzenleme5/3.PNG)
 
