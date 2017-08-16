@@ -221,29 +221,3 @@ USB'yi çıkartın ve tekrar çalıştırın. GRUB ekranından yeni işletim sis
 #Lisans
 
 Bu belge "GNU Free Documentation License" ile lisanslanmıştır. Lisansı [lisans](https://raw.githubusercontent.com/DoraUzunsoy/Step-by-step/master/LICENCES.txt) adresinden inceleyebilirsiniz.
-
-
-# Yapılacak Değişiklikler :
-
-
-## 1. ve 2. Bölüm İçin :
-
-* Arama motoru kullanılmadan URL verilecek.
-* İso dosyası indirme seçeneklerinde, gnome değil full imaj tercih edilecek ve yönergeye buna göre devam edilecek.
-* Firefox ya da başka bir özgür tarayıcı üzerinden ekran görüntüleri alınacak.
- 
-## 3. Bölüm İçin :
-
-* "Bilgisayarım" ikonu, yanındaki ikonlar yok edilerek ve arkaplan siyah belirlenerek daha görünür hale getirilecek.
-* 3 B - Disk Bölümlendirme kısmında (Bu genellikle "C:" olacaktır.) ibaresi yerine "Hangi diskte boş yer varsa o küçültülmeli." yazılacak.
-
-## 4 . Bölüm İçin : 
-
-* Açıklama silinecek.
-* Ekran görüntüleri daha doğru açıdan çekilecek.
-* UEFI ayarları da dahil edilecek.
-
-## 5. Bölüm İçin : 
-
-* Telefon görüntüsü yerine ekran görüntüleri kullanılacak.
-* Tam ad kısmına "Ad Soyad", kullanıcı hesabı kısmına "kullanici_adi" yazılacak. 
